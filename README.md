@@ -22,9 +22,15 @@ It allows users to browse and book holiday packages, manage their cart, and view
 - Simple login for admin
 
 ## Technologies Used
-- **Backend:** PHP, Laravel  
+- **Backend:** PHP
 - **Frontend:** HTML, CSS, Bootstrap, jQuery, AJAX  
 - **Database:** MySQL
+
+## Tools
+- Xampp,Visual Studio, Sublime Text
+
+## Web server 
+- Apache
 
 ## How it Works
 1. Users visit the website, view banners and packages.
